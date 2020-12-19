@@ -23,8 +23,8 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:Piyush-kmr4/sfg-pet-clinic.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.1</tag>
+        <connection>https://github.com/Piyush-kmr4/sfg-pet-clinic.git</connection>
+        <url>https://github.com/Piyush-kmr4/sfg-pet-clinic</url>
   </scm>
 
     <build>
