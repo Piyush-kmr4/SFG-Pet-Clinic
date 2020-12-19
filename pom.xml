@@ -25,8 +25,8 @@
     <scm>
         <connection>scm:git:http://github.com/Piyush-kmr4/sfg-pet-clinic.git</connection>
         <url>http://github.com/Piyush-kmr4/sfg-pet-clinic</url>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <plugins>
