@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>sfg-pet-clinic</name>
     <description>Sfg Pet Clinic</description>
 
@@ -23,9 +23,9 @@
     </properties>
 
     <scm>
-        <connection>https://github.com/Piyush-kmr4/sfg-pet-clinic.git</connection>
-        <url>https://github.com/Piyush-kmr4/sfg-pet-clinic</url>
-  </scm>
+        <connection>scm:git:http://github.com/Piyush-kmr4/sfg-pet-clinic.git</connection>
+        <url>http://github.com/Piyush-kmr4/sfg-pet-clinic</url>
+    </scm>
 
     <build>
         <plugins>
