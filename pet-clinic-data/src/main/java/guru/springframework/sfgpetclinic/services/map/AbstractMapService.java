@@ -43,7 +43,6 @@ public abstract class AbstractMapService<T extends BaseEntity, ID extends Long> 
         }
         catch (Exception e){
             nextId = 1L;
-            System.out.println("Id set to 1...");
         }
         return nextId;
     }
